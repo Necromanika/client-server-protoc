@@ -1,0 +1,9 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "clientApp";
+
+message CommonMessage
+{
+	int32 ctrl = 1;
+	string text = 2;
+}
