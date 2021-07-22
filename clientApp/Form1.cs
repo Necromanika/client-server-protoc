@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text;
 using System.Windows.Forms;
 using System.Net.Sockets;
 using System.Threading.Tasks;
@@ -7,7 +6,6 @@ using System.Linq;
 using System.Collections.Generic;
 using System.IO;
 using System.Threading;
-using Google.Protobuf;
 using ProtoBuf;
 
 namespace clientApp
